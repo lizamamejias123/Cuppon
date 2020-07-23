@@ -1,0 +1,98 @@
+
+}
+.nav-link{
+  color:#FFFFFF!important;
+  font-size: 16px!important;
+  padding-left: 20px!important;
+  padding-right: 20px!important;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+margin: 0;
+border: 0;
+padding: 0;}
+body {
+  margin-top: 60px;}
+.tamano{
+  height:62px;
+}
+.centrado{
+  text-align: center;
+  font-size: 60px;
+  color: #707070;
+}
+.card-title{
+  font-weight: 300;
+  font-size: 20px;}
+
+.card-text{
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: -5px;
+  }
+.fill{color: #707070;}
+.text3{
+    font-size: 13px;
+    text-align: left;
+    vertical-align: middle;
+    font-weight: 300;
+  }
+.icon-text{
+  margin: 1px;
+      padding-bottom: 8px;
+}
+.fill, .icon-text{
+  display: inline-block;
+}
+.p-green, .p-grey, .p-grey1{
+  display: inline-block;
+}
+.p-green{
+  font-size: 20px;
+  font-weight: 500;
+  color: #28A745;
+    margin-left: 13px
+}
+.p-grey{
+font-size: 16px;
+font-weight: 300;
+margin-left: 72px;}
+
+.p-grey1{
+font-size: 16px;
+font-weight: 300;
+margin-left: 63px;
+
+
+  text-align: center;
+}
+.mt{margin-top: 1px!important;}
+p {margin-top: 12px;
+    margin-bottom: 0rem;
+}
+
+.formu{
+  background-color: #28A745;
+
+}
+.font-size21{
+  font-size: 21px;
+  font-weight: 500;
+}
+.form-control{  font-size: 16px;
+  font-weight: 300;}
+.boton{
+    font-size: 16px;
+      font-weight: 500;
+  }
+  .centrado1{
+    text-align: center;
+    font-size: 30px;
+    color: #707070;
+    padding-top: 15px;}
+
+.footer-end{
+  font-size: 16px;
+    font-weight: 300;
+    padding: 15px;
+}
